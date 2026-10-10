@@ -1,0 +1,26 @@
+# ===== 本机工具链与产物（不入库） =====
+jdk-*/
+jdk17.zip
+jdk_path.txt
+aapt2/
+aapt2.zip
+aapt2-*.jar
+out/
+
+# 构建产物
+照片选片.apk
+*.apk
+
+# 历史调试遗留（截图/补丁脚本/备份/日志）
+*.png
+*.log
+*.bak
+*.bak2
+*.py
+ui.xml
+__pycache__/
+freeze_test.png
+
+# 系统文件
+Thumbs.db
+desktop.ini
